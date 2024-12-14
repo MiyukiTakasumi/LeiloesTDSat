@@ -111,6 +111,7 @@ public class ProdutosDAO {
                 listaVendidos.add(produto); 
             }
         } catch (SQLException e) {
+            
             JOptionPane.showMessageDialog(null, "ERRO AO LISTAR PRODUTOS VENDIDOS: " + e.getMessage());
         }
 
