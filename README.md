@@ -14,7 +14,7 @@ os recursos de versionamento, mantendo um histórico de todas as alterações. V
 
 👉 Deve haver uma listagem de dados para que todos os itens cadastrados apareçam na tela de listagem.
 
-Deverá desenvolver as seguintes funcionalidades no projeto enviando para uma ramificação separada chamada "melhorias":
+Dando sequência ao projeto, deverá desenvolver as seguintes funcionalidades enviando para uma ramificação separada chamada "melhorias":
 
 👉 Operação de venderProduto() em ProdutosDAO – a função deve atualizar o status de um produto para “Vendido”.
 
