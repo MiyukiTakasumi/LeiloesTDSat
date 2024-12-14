@@ -17,9 +17,13 @@ os recursos de versionamento, mantendo um histórico de todas as alterações. V
 Deverá desenvolver as seguintes funcionalidades no projeto enviando para uma ramificação separada chamada "melhorias":
 
 👉 Operação de venderProduto() em ProdutosDAO – a função deve atualizar o status de um produto para “Vendido”.
+
 👉 Operação de listarProdutosVendidos() em ProdutosDAO – a função deve buscar todos os produtos no banco de dados com o status “Vendido”.
+
 👉 Deve ser implementada uma tela de Vendas exibindo apenas os itens com status “Vendido”.
+
 👉 Deve ser implementada a funcionalidade de venderProduto na tela de listagem – já há um botão para isso, mas ele ainda não está funcionando.
+
 👉 Deve ser implementada a navegação no botão Consultar Vendas para abrir a tela de Vendas.
 
 Após implementar e testar as novas funcionalidades, deve mesclar a ramificação "melhorias" com a principal.
